@@ -30,7 +30,7 @@ export const Results = () => {
                                 <p className='text-lg hover:underline dark:text-blue-300 text-blue-700'>
                                     {title}
                                 </p>
-                                <p className='text-sm'>
+                                <p className='text-sm truncate'>
                                     {description}
                                 </p>
                             </a>
